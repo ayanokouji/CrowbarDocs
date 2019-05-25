@@ -1,0 +1,24 @@
+Product description
+Color:RT-CR6C3
+
+Rocketek All-in-One USB card reader/writer build in 3 interfaces - USB 3.0, Micro USB and USB Type C. Support TF, SDXC, SDHC, SD, MMC, RS-MMC, Micro SDXC, Micro SD, Micro SDHC Card, UHS-I Cards for Mac, Windows, Linux, Chrome.
+
+Features
+-2 slots: SD/MMC + Micro SD/T-flash
+-3 USB 3.0 Ports：Connect to your smartphone, tablet, hard drive,mouse, keyboard or other USB peripheral
+-Compliant with USB 3.0 standard, support speeds up to 5Gbps on computers equipped with USB 3.0 port.
+-Plug & play, no driver installation required
+-LED indicator for working status
+
+OTG Card Reader for Android Phones
+Memory Card Reader with OTG(USB C device/Android phone/Tablet must with OTG function)Backup your important Photos, Music, Videos, and Contact list.
+Portable for business(convenient for file work)Document viewer for all major file formats.Securely store and share digital contents such as movies, pictures, and music from your phone.
+v Card Slot Compatibility
+-SD slot: SDXC/UHS-I SD/SDHC/SD/Extreme SD/Extreme III SD/Ultra II SD/MMC(mini SD/mini SDHC/RS-MMC/HS RS MMC may need a adapter)
+-Micro SD/TF slot: Micro SDXC/Micro SDHC/Micro SD
+
+Note
+*Need to use OTG functionlease make sure your Android phones/tablets support OTG technology.
+*Some phones/tablets(Sony and Android) may not support reading dual cards simultaneously through OTG function. Please consult your phone manufacturer.
+
+https://www.amazon.com/Rocketek-Adapter-MacBook-Smartphones-Function/dp/B07MJ61TJV

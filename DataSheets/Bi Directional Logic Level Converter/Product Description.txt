@@ -1,0 +1,13 @@
+Because the Arduino (and Basic Stamp) are 5V devices, and most modern sensors, displays, flash cards and modes are 3.3V-only, many makers find that they need to perform level shifting/conversion to protect the 3.3V device from 5V.
+
+We do have some other handy level shifters in the shop, from the DIP 74LVC245 to the fancy bi-directional TXB0108 . However, neither of these are happy to work with I2C, which uses a funky pull-up system to transfer data back and forth. This level shifter board combines the ease-of-use of the bi-directional TXB0108 with an I2C-compatible FET design following NXP's app note.
+
+This breakout has 4 BSS138 FETs with 10K pullups. It works down to 1.8V on the low side, and up to 10V on the high side. The 10K's do make the interface a little more sluggish than using a TXB0108 or 74LVC245 so we suggest checking those out if you need high-speed transfer.
+
+While we designed it for use with I2C, this works as well for  TTL Serial,  slow <2MHz SPI, and any other digital interface both uni-directional and bidirectional. Comes with a fully assembled, and tested PCB with 4 full bidirectional converter lines as well as 2 pieces of 6-pin header you can solder on to plug into a breadboard or perfboard.
+
+https://www.amazon.com/Adafruit-4-Channel-I2C-Safe-Bi-Directional-Converter/dp/B00NAY3J7O/ref=sr_1_6?keywords=logic+level+shifter+3.3v+to+5v+i2c&qid=1557166365&s=gateway&sr=8-6
+
+https://www.adafruit.com/product/757
+
+https://github.com/adafruit/4-Channel-Level-Shifter-PCB

@@ -1,0 +1,7 @@
+https://www.amazon.com/ELEGOO-Arduino-ATmega328P-Without-Compatible/dp/B0713XK923/ref=sr_1_1_sspa?keywords=Arduino+nano+5V&qid=1557165263&s=gateway&sr=8-1-spons&psc=1
+
+Drivers
+https://www.elegoo.com/download/
+
+Pinout Schematics
+https://www.circuitstoday.com/arduino-nano-tutorial-pinout-schematics

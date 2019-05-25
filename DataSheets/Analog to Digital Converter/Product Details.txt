@@ -1,0 +1,33 @@
+Brand Name 		HiLetgo
+Color 			Blue
+Model Number 		6543849468
+Number of Items 	1
+Part Number 		3-01-1062-A
+Size 			Small
+Specification Met 	IP
+UNSPSC Code 		32000000 
+
+Product description
+
+Description:
+For microcontrollers without an analog-to-digital converter or when you want a higher-precision ADC, the ADS1115 provides 16-bit precision at 3300 samples/second over I2C. The chip can be configured as 4 single-ended input channels, or two differential channels. As a nice bonus, it even includes a programmable gain amplifier, up to x16, to help boost up smaller single/differential signals to the full range. The chip's fairly small so it comes on a breakout board with ferrites to keep the AVDD and AGND quiet. Interfacing is done via I2C. Simply connect GND to ground, VDD to your logic power supply, and SCL/SDA to your microcontroller's I2C port and run the example code to start reading data.
+
+Parameters:
+ADC Bit rate: 16 Bit
+Interface Type: I2C
+Channels: 4 Channel AN0 AN1 AN2 AN3
+Input voltage: 2.0v-5.5v
+Channel input voltage : 0-VDD
+Continuous Mode: Only 150μA
+Single-Shot Mode: Auto Shut Down
+Programmable data rate: 8sps-860sps
+Input range programmed control, 7 types input ranges:
+-0.256V ~ + 0.256V, -0.512V ~ + 0.512V, -1.024V ~ + 1.024V, -2.048V ~ + 2.048V, -4.096V ~ + 4.096 V, -6.144V ~ + 6.144V I2C 7-bit addresses between 0x48-0x4B
+
+Package Included:
+1* ADS1115 16 Bit 4 Channel Analog-to-Digital ADC Converter
+1* Pin Header 
+
+
+https://learn.adafruit.com/adafruit-4-channel-adc-breakouts/downloads
+https://github.com/adafruit/Adafruit_ADS1X15
